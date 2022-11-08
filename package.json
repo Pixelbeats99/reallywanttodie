@@ -61,7 +61,7 @@
   "devDependencies": {
     "babel-cli": "^6.16.0",
     "babel-core": "^6.17.0",
-    "babel-loader": "^6.2.5",
+    "babel-loader": "^9.1.0",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-react-jsx": "^6.7.4",
     "babel-polyfill": "^6.16.0",
@@ -73,7 +73,7 @@
     "null-loader": "^0.1.1",
     "style-loader": "^0.18.2",
     "stylus-loader": "^3.0.1",
-    "webpack": "^1.12.14",
+    "webpack": "^5.74.0",
     "webpack-dev-middleware": "^1.6.1"
   }
 }
